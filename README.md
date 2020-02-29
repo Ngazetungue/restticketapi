@@ -5,7 +5,7 @@ Overview
 Django REST framework is a powerful and flexible toolkit for building Web APIs.
 Requirements
 # requirements.txt file included
- 
+ """html
  Python (3.7)
  asgiref==3.2.3
  Django==3.0.3
@@ -13,7 +13,7 @@ Requirements
  pytz==2019.3
  sqlparse==0.3.0
 It is only officially support the latest patch release of each Python and Django series.
-
+"""
 Installation
 Install using pip...
 pip install djangorestframework
