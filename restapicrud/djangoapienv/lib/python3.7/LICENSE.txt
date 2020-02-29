@@ -1,0 +1,5 @@
+XSym
+0040
+63c37af57dcd5296567dfd20238b8479
+/opt/anaconda3/lib/python3.7/LICENSE.txt
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
