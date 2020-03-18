@@ -1,1 +1,1 @@
-Will be update soon for instruction
+Will update instructions soon
